@@ -1,0 +1,6 @@
+module Pods_Jugar {
+  umbrella header "Pods-Jugar-umbrella.h"
+
+  export *
+  module * { export * }
+}
