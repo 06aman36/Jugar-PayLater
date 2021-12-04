@@ -19,7 +19,7 @@ export default class SplashScreen extends React.Component {
         }}>
           <View style={{justifyContent:'center',alignSelf:'center', flexDirection:'row'}}>
             <Text style={{color:'#fff',fontWeight:'bold',fontSize:25}}>Jugar </Text>
-            <Text style={{color:'#979797',fontWeight:'bold',fontSize:25}}>PayLater</Text>
+            <Text style={{color:'#fdfd',fontWeight:'bold',fontSize:25}}>PayLater</Text>
           </View>
        
       </View>
