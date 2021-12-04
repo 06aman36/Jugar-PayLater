@@ -1,0 +1,16 @@
+{
+    "name": "TechO2",
+    "version": "0.0.1",
+    "Home": {
+      "Addpost": "Add Post",
+      "cmnt": "Comments",
+      "about" :"Beauty of nature, You can feel from this image ."
+    },
+    "PostScreen": {
+        "sel": " Select Image/Video (JPG,MP4,...)",
+        "title": "Post Screen"
+       
+      }
+  
+  }
+  
